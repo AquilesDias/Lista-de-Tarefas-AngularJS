@@ -1,0 +1,14 @@
+.feito-true{
+  text-decoration:  line-through;
+  color: grey;
+}
+
+ul.unstyled, 
+on.unstyled{
+  margin-left: 0;
+  list-style: none;
+}
+
+body{
+  background: maroon;
+}
